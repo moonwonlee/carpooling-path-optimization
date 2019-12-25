@@ -3,7 +3,7 @@ Path Optimization of Carpooling implementation using networkx, google OR tool in
 Please read project_report.pdf for code design.
 
 ## Problem Statement / Specification
-Please read spec.pdf for specific problem description.
+Please read 'spec.pdf' for specific problem description.
 
 ## Code Design
 Please read https://docs.google.com/document/d/1S2Xxs47H0cYT5xCnsJIwKnxy4bzVv_kXxMWXIR9YAYc/edit
